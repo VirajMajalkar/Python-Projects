@@ -1,0 +1,2 @@
+# Python-KYC Validation using Multiple Inheritance 
+Python project explaining multiple inheritance of class module. Know Your Customer concept is used wherein customer submits either PAN, Passport or Aadhar card to open an account. Three different classes to validate basic characteristics of PAN,Passport and Addhar card have been created and one parent class ValidateKYC is created which uses functions of individual child classes.
